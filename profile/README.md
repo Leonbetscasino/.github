@@ -1,6 +1,32 @@
+<meta name="description" content="👑 Leonbets — рабочее зеркало для стабильного входа без блокировок. Ставки на спорт, live-казино и слоты. Регистрация и безопасный доступ без VPN.">
+<meta name="author" content="Leonbets зеркало">
 <h2>💎 Leonbets — официальный сайт, рабочее зеркало и вход в личный кабинет</h1>
 <p>Leonbets — одна из наиболее известных букмекерских контор на российском рынке, предлагающая широкий выбор ставок на спорт, линейку казино и удобный личный кабинет. Платформа работает как в режиме прематч, так и в формате live, позволяя делать ставки прямо во время матча.</p>
 <p>Для стабильного входа в систему Leonbets компания предоставляет резервные адреса — так называемое Леон зеркало, которое полностью дублирует функциональность основного ресурса. Это решение особенно актуально для пользователей из России, где провайдеры периодически ограничивают доступ к сайтам онлайн-букмекеров.</p>
+<a href="https://leon-365-rt12.ru/leongit1" rel="nofollow noopener noreferrer" aria-label="Перейти на Leonbet">
+  <svg xmlns="http://www.w3.org/2000/svg" width="280" height="48" viewBox="0 0 280 48" role="img" aria-hidden="true">
+    <defs>
+      <linearGradient id="btn-gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+        <stop offset="0%" stop-color="#00c853"/>
+        <stop offset="100%" stop-color="#00e676"/>
+      </linearGradient>
+      <filter id="btn-shadow" x="-10%" y="-20%" width="120%" height="160%">
+        <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#00c853" flood-opacity="0.35"/>
+      </filter>
+    </defs>
+    <rect width="280" height="48" rx="8" fill="url(#btn-gradient)" filter="url(#btn-shadow)"/>
+    <text
+      x="140"
+      y="25"
+      text-anchor="middle"
+      dominant-baseline="middle"
+      font-family="Segoe UI, system-ui, -apple-system, Arial, sans-serif"
+      font-size="16"
+      font-weight="600"
+      fill="#000"
+    >Перейти на Leonbet</text>
+  </svg>
+</a>
 <h2>✨ Особенности и преимущества букмекерской конторы Леон</h2>
 <p>БК Леон зеркало и официальный сайт предоставляют одинаковый набор возможностей, что делает платформу максимально удобной в любой ситуации. Компания принимает ставки от клиентов по всей России, а депозиты и выводы осуществляются в рублях.</p>
 <p>Среди ключевых преимуществ платформы выделяют:</p>
